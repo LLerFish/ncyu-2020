@@ -1,4 +1,8 @@
 Initial commit
+<<<<<<< HEAD
 Add 2
 Add 3
 Add 4
+=======
+Add 3
+>>>>>>> d695e04... Example 4: 3
